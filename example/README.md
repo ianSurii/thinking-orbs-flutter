@@ -2,7 +2,7 @@
 
 An interactive Flutter showcase and gallery demonstrating all 9 cognitive states of the `thinking_orbs` package.
 
-## 🔮 Features
+## Features
 
 - **Interactive Playground**: Inspect each state with live controls for speed, size, paused state, and custom color tints.
 - **Theme Switcher**: Instant switching between System Auto, Dark, and Light themes.
@@ -10,7 +10,7 @@ An interactive Flutter showcase and gallery demonstrating all 9 cognitive states
 - **Code Generator**: Generates copy-paste ready Flutter code for your chosen configuration.
 - **All 9 States Grid**: Simultaneous synchronized visualization of `working`, `searching`, `solving`, `listening`, `connecting`, `weaving`, `composing`, `breathing`, and `shaping`.
 
-## 🚀 Running the Example
+## Running the Example
 
 ### Web:
 ```bash
@@ -27,7 +27,7 @@ flutter run -d macos
 flutter run
 ```
 
-## 🌐 Live Web Demo
+## Live Web Demo
 
 You can also try the web build online at:
 [https://iansurii.github.io/thinking-orbs-flutter/](https://iansurii.github.io/thinking-orbs-flutter/)

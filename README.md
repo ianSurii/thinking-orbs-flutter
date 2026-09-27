@@ -30,14 +30,10 @@ Test all 9 cognitive states, dark/light themes, custom color tints, sizes, and s
 
 Watch the interactive 3D particle dynamics and animations across all 9 cognitive states:
 
-<p align="center">
-  <video src="thinking_orbs_demo.webm" autoplay loop muted playsinline width="100%" style="max-width: 800px; border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);">
-    Your browser does not support the video tag. Watch the demo directly: <a href="thinking_orbs_demo.webm">thinking_orbs_demo.webm</a>
-  </video>
-</p>
+https://github.com/user-attachments/assets/ec0a19c9-83b7-45db-b738-135439b9e0d9
 
 <p align="center">
-  <em>Direct Video File: <a href="thinking_orbs_demo.webm"><code>thinking_orbs_demo.webm</code></a> &bull; Interactive Web Showcase: <a href="https://iansurii.github.io/thinking-orbs-flutter/"><strong>Live Demo</strong></a></em>
+  <em>Interactive Web Showcase: <a href="https://iansurii.github.io/thinking-orbs-flutter/"><strong>Live Demo</strong></a></em>
 </p>
 
 ---

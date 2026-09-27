@@ -1,0 +1,18 @@
+# GitHub Pages build output (not part of package)
+/docs/
+/build/
+
+# Large media files (videos, duplicate raw assets)
+*.webm
+*.mp4
+thinking orbs.png
+thinking orbs.webm
+thinking_orbs_demo.webm
+
+# Internal test & benchmark specs
+/spec/
+
+# IDE & CI configurations
+.github/
+.idea/
+*.iml

@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:example/main.dart';
-import 'package:thinking_orbs/thinking_orbs.dart';
+import 'package:agent_thinking_orbs/agent_thinking_orbs.dart';
 
 void main() {
   testWidgets('ThinkingOrbs gallery smoke test', (WidgetTester tester) async {

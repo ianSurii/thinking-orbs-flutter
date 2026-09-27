@@ -30,7 +30,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  thinking_orbs:
+  agent_thinking_orbs:
     path: ../
 
   cupertino_icons: ^1.0.8

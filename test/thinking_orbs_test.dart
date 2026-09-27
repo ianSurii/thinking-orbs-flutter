@@ -2,7 +2,7 @@ import 'dart:math' as math;
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:thinking_orbs/thinking_orbs.dart';
+import 'package:agent_thinking_orbs/agent_thinking_orbs.dart';
 
 void main() {
   group('Math & Engine Primitives', () {

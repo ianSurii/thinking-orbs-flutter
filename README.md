@@ -1,4 +1,4 @@
-# Thinking Orbs for Flutter
+# Agent Thinking Orbs for Flutter
 
 <p align="center">
   <img src="thinking_orbs_banner.png" alt="Thinking Orbs Showcase" width="100%" style="border-radius: 12px; max-width: 800px;" />
@@ -13,7 +13,7 @@
   <a href="https://iansurii.github.io/thinking-orbs-flutter/"><img src="https://img.shields.io/badge/Live_Demo-GitHub_Pages-blue?style=for-the-badge&logo=github" alt="Live Demo"></a>
   <a href="https://github.com/ianSurii/thinking-orbs-flutter"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" alt="GitHub Repository"></a>
   <a href="https://github.com/ianSurii/thinking-orbs-flutter/actions"><img src="https://img.shields.io/badge/CI-Passing-brightgreen?style=for-the-badge&logo=github-actions" alt="CI Status"></a>
-  <a href="https://pub.dev/packages/thinking_orbs"><img src="https://img.shields.io/badge/pub.dev-v0.1.0-0175C2?style=for-the-badge&logo=dart" alt="pub.dev"></a>
+  <a href="https://pub.dev/packages/agent_thinking_orbs"><img src="https://img.shields.io/badge/pub.dev-v0.1.0-0175C2?style=for-the-badge&logo=dart" alt="pub.dev"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT"></a>
 </p>
 
@@ -60,17 +60,17 @@ Each cognitive verb maps directly to a distinct geometric mode:
 
 ## Installation
 
-Add `thinking_orbs` to your `pubspec.yaml`:
+Add `agent_thinking_orbs` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  thinking_orbs: ^0.1.0
+  agent_thinking_orbs: ^0.1.0
 ```
 
 Or run:
 
 ```bash
-flutter pub add thinking_orbs
+flutter pub add agent_thinking_orbs
 ```
 
 ---
@@ -81,7 +81,7 @@ flutter pub add thinking_orbs
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:thinking_orbs/thinking_orbs.dart';
+import 'package:agent_thinking_orbs/agent_thinking_orbs.dart';
 
 class ThinkingView extends StatelessWidget {
   const ThinkingView({super.key});

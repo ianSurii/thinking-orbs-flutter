@@ -1,4 +1,4 @@
-name: thinking_orbs
+name: agent_thinking_orbs
 description: "Dotted thought-orb loading indicators for AI & agent interfaces in Flutter with 100% mathematical parity to the React specification."
 version: 0.1.0
 homepage: https://iansurii.github.io/thinking-orbs-flutter/

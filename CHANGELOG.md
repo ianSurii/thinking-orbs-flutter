@@ -2,7 +2,7 @@
 
 ## 0.1.0
 
-* Initial release of `thinking_orbs` for Flutter.
+* Initial release of `agent_thinking_orbs` for Flutter.
 * Complete geometry engine ported with 100% mathematical parity against the React/TypeScript specification.
 * 9 distinct cognitive states supported:
   - `working` (Globe)
